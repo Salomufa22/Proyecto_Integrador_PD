@@ -32,7 +32,9 @@ dataset = load_dataset("mstz/heart_failure")
 El dataset contiene una estructura similar a un diccionario con particiones de datos y características, debido a que este dataset sólo contiene una partición llamada train, accedemos a todos los registos indexando por esa partición
 `data = dataset["train"]`
 
-
+## Progreso
+* Parte I finalizada.
+* Parte II finalizada.
 
 ¡Gracias por tu interés en el proyecto! Mantente atento a las actualizaciones a medida que continúo construyendo la base de datos.
 
