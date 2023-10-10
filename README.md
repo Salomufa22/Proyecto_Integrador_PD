@@ -35,11 +35,12 @@ El dataset contiene una estructura similar a un diccionario con particiones de d
 ## Progreso
 * Parte I finalizada.
 * Parte II finalizada.
+* Parte III finalizada.
 
 ¡Gracias por tu interés en el proyecto! Mantente atento a las actualizaciones a medida que continúo construyendo la base de datos.
 
 
 ## Contacto
-Realizado por: Laura Salomé Murcia Farfán
-Cohorte 38 ADA SCHOOL
+Realizado por: Laura Salomé Murcia Farfán  
+Cohorte 38 ADA SCHOOL  
 Si tienes alguna pregunta o comentario, no dudes en ponerte en contacto conmigo a través de los problemas (issues) del repositorio.
