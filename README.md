@@ -37,6 +37,7 @@ El dataset contiene una estructura similar a un diccionario con particiones de d
 * Parte II finalizada.
 * Parte III finalizada.
 * Parte IV finalizada.
+* Parte V finalizada.
 
 ¡Gracias por tu interés en el proyecto! Mantente atento a las actualizaciones a medida que continúo construyendo la base de datos.
 
