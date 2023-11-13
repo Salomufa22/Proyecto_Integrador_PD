@@ -45,7 +45,10 @@ El dataset contiene una estructura similar a un diccionario con particiones de d
     + ![Graf2](images/graf2.png)   
 
 * Parte VIII finalizada:    
-    + ![Graf3](images/graf3.png)
+    + ![Graf3](images/graf3.png)   
+
+* Parte IX finalizada:   
+    + ![Graf4](images/graf4.jpg)
 
 ¡Gracias por tu interés en el proyecto! Mantente atento a las actualizaciones a medida que continúo construyendo la base de datos.
 
