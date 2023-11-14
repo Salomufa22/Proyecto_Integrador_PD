@@ -50,6 +50,9 @@ El dataset contiene una estructura similar a un diccionario con particiones de d
 * Parte IX finalizada:   
     + ![Graf4](images/graf4.jpg)
 
+* Parte X finalizada:    
+    + ![mse](images/mse.jpg)   
+
 ¡Gracias por tu interés en el proyecto! Mantente atento a las actualizaciones a medida que continúo construyendo la base de datos.
 
 
