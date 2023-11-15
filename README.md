@@ -53,6 +53,9 @@ El dataset contiene una estructura similar a un diccionario con particiones de d
 * Parte X finalizada:    
     + ![mse](images/mse.jpg)   
 
+* Parte XI finalizada:
+    + ![arboles](images/trees.jpg)
+
 ¡Gracias por tu interés en el proyecto! Mantente atento a las actualizaciones a medida que continúo construyendo la base de datos.
 
 
